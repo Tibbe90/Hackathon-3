@@ -1,0 +1,13 @@
+
+body{
+    background-color: black;
+    color: antiquewhite;
+    text-align: center;
+}
+ul { 
+    display: inline-block; text-align: left ; 
+}
+button{
+    border-color: purple;
+    background-color: antiquewhite;
+}
